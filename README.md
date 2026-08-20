@@ -1,6 +1,6 @@
 # koka.no
 
-Personal website and portfolio showcasing open source projects and utilities.
+Landing page showcasing Omarchy plugins and desktop utilities.
 
 ## Tech Stack
 
@@ -14,7 +14,7 @@ Just open `index.html` in your browser. No build step needed.
 
 ## Deployment
 
-This site is automatically deployed to Cloudflare Pages on push to the `main` branch.
+This site is automatically deployed to Cloudflare Pages on push to the `master` branch.
 
 ### Setup Cloudflare Pages
 
